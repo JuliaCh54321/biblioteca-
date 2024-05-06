@@ -1,0 +1,14 @@
+body{
+    background-color: #ba64a5;
+
+}
+.contenedor{
+
+    box-shadow: 0px 0px 20px rgb(148, 9, 155);
+    padding: 1em;
+    margin-top: 5em;
+    text-align: center;
+}
+.contenedor{
+    background-color: rgb(247, 217, 238);
+}
